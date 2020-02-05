@@ -2,7 +2,7 @@
 
   // set the current page to one of the main buttons
   $nav_selected = "HOME";
-
+  // Hello, changes from Cory Lawrence here
   // make the left menu buttons visible; options: YES, NO
   $left_buttons = "NO";
 
